@@ -1,4 +1,4 @@
-## Hi there! 👋🏻
+## 👋🏻 Hi there!
 
 - Hello! 👋🏻 My name is Jason Edward Salim. I'm currently taking CS undergraduate degree in Bandung Institute of Technology.
 
