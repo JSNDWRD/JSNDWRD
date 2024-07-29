@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! 👋🏻
 
-<!--
-**JSNDWRD/JSNDWRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hello! My name is Jason Edward Salim. I'm currently taking CS undergraduate degree in Bandung Institute of Technology.
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 Tech I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Javascript, C++, Python
+- **Frameworks & Libraries:** React, NextJS, TailwindCSS
+- 📚 **Currently Learning:** Backend Development
+
+## 🤙🏻 Reach Me
+
+- **Email:** [jasonedwardsalim@gmail.com](mailto:jasonedwardsalim@gmail.com)
+- **LinkedIn:** [Jason Edward Salim](https://www.linkedin.com/in/jason-edward-salim-50751927a/)
