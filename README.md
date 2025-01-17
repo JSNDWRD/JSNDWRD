@@ -13,4 +13,4 @@
 - **Email:** [jasonedwardsalim@gmail.com](mailto:jasonedwardsalim@gmail.com)
 - **LinkedIn:** [Jason Edward Salim](https://www.linkedin.com/in/jason-edward-salim-50751927a/)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JSNDWRD)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JSNDWRD)](https://github.com/anuraghazra/github-readme-stats)
