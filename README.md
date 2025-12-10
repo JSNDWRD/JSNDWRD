@@ -1,6 +1,6 @@
-<img style="display: block; margin: 2rem auto; object-fit: cover; object-position: center center; width: 80vw; max-height: 20rem;" src="assets/bebop.gif" alt="Cowboy Bebop"/>
+<!-- <img style="display: block; margin: 2rem auto; object-fit: cover; object-position: center center; width: 80vw; max-height: 10rem;" src="assets/bebop.gif" alt="Cowboy Bebop"/> -->
 
-# About Me:
+# About Me
 
 👋 Hello there, my name is Jason. I'm currently taking a CS degree in Bandung Institute of Technology. \
 📚 **Currently learning:** Backend development. \
